@@ -1,0 +1,27 @@
+C:\Users\braul\Desktop\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\MDI_Contabilidad.dll
+C:\Users\braul\Desktop\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\MDI_Contabilidad.pdb
+C:\Users\braul\Desktop\Modulos\MDI_Contabilidad\MDI_Contabilidad\obj\Debug\MDI_Contabilidad.csprojResolveAssemblyReference.cache
+C:\Users\braul\Desktop\Modulos\MDI_Contabilidad\MDI_Contabilidad\obj\Debug\MDI_Contabilidad.Contabilidad.resources
+C:\Users\braul\Desktop\Modulos\MDI_Contabilidad\MDI_Contabilidad\obj\Debug\MDI_Contabilidad.csproj.GenerateResource.Cache
+C:\Users\braul\Desktop\Modulos\MDI_Contabilidad\MDI_Contabilidad\obj\Debug\MDI_Contabilidad.dll
+C:\Users\braul\Desktop\Modulos\MDI_Contabilidad\MDI_Contabilidad\obj\Debug\MDI_Contabilidad.pdb
+C:\Users\braul\Desktop\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\CierreContableNew.pdb
+C:\Users\braul\Desktop\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\capaPresentacion.dll
+C:\Users\braul\Desktop\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\capaPresentacion.pdb
+C:\Users\braul\Desktop\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\CierreContableNew.dll
+C:\Users\braul\Desktop\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\enlaces.dll
+C:\Users\braul\Desktop\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\enlaces.pdb
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\MDI_Contabilidad.dll
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\MDI_Contabilidad.pdb
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\CierreContableNew.pdb
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\enlaces.pdb
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\MDI_Contabilidad\MDI_Contabilidad\obj\Debug\MDI_Contabilidad.csprojResolveAssemblyReference.cache
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\MDI_Contabilidad\MDI_Contabilidad\obj\Debug\MDI_Contabilidad.Contabilidad.resources
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\MDI_Contabilidad\MDI_Contabilidad\obj\Debug\MDI_Contabilidad.csproj.GenerateResource.Cache
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\MDI_Contabilidad\MDI_Contabilidad\obj\Debug\MDI_Contabilidad.dll
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\MDI_Contabilidad\MDI_Contabilidad\obj\Debug\MDI_Contabilidad.pdb
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\CierreContableNew.dll
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\enlaces.dll
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\CapaPresentación.dll
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\polizasLocales.dll
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\CapaPresentación.pdb

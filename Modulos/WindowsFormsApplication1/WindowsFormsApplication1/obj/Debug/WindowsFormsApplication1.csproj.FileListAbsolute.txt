@@ -1,0 +1,65 @@
+C:\Users\braul\Desktop\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\braul\Desktop\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\braul\Desktop\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\braul\Desktop\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Conta_Polizas.dll
+C:\Users\braul\Desktop\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Conta_Polizas.pdb
+C:\Users\braul\Desktop\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\braul\Desktop\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\braul\Desktop\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\braul\Desktop\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\braul\Desktop\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\braul\Desktop\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\braul\Desktop\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Consultas2Nov.dll
+C:\Users\braul\Desktop\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Navegador.dll
+C:\Users\braul\Desktop\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\braul\Desktop\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Consultas2Nov.pdb
+C:\Users\braul\Desktop\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Navegador.pdb
+C:\Users\braul\Desktop\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.xml
+C:\Users\braul\Desktop\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MDI_Contabilidad.dll
+C:\Users\braul\Desktop\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MDI_Contabilidad.pdb
+C:\Users\braul\Desktop\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CierreContableNew.dll
+C:\Users\braul\Desktop\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CierreContableNew.pdb
+D:\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CierreContableNew.dll
+D:\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Navegador.dll
+D:\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Consultas2Nov.dll
+D:\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+D:\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CierreContableNew.pdb
+D:\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Conta_Polizas.pdb
+D:\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MDI_Contabilidad.pdb
+D:\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Navegador.pdb
+D:\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Consultas2Nov.pdb
+D:\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.xml
+D:\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\capaPresentacion.dll
+D:\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Conta_Polizas.dll
+D:\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\capaPresentacion.pdb
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CierreContableNew.dll
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\enlaces.dll
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MDI_Contabilidad.dll
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\polizasLocales.dll
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CierreContableNew.pdb
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\enlaces.pdb
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MDI_Contabilidad.pdb
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\capaDatos.dll
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\capaLogica.dll
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\capaDatos.pdb
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\capaLogica.pdb
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CapaPresentación.dll
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CapaPresentación.pdb
